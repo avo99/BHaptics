@@ -1,0 +1,32 @@
+2024-12-13 17:19:20.327 [1] WARN BhapticsPlayer.Window.PortalWindow..ctor(): PortalWindow
+2024-12-13 17:19:21.951 [1] WARN BhapticsPlayer.Window.PortalWindow+<<-ctor>b__8_0>d.MoveNext(): PortalWindow Loaded
+2024-12-13 17:19:22.098 [1] WARN BhapticsPlayer.Internal.LocalDbRepository.InitializeDatabase(): InitializeDatabase
+2024-12-13 17:19:23.943 [1] EROR BhapticsPlayer.Audio.UserService.GetUser(): User not ready.
+2024-12-13 17:19:23.945 [1] WARN BhapticsPlayer.Login.UserRepository.GetCurrentUser(): GetCurrentUser User null
+2024-12-13 17:19:23.949 [1] EROR BhapticsPlayer.Audio.UserService.GetUser(): User not ready.
+2024-12-13 17:19:23.951 [1] WARN BhapticsPlayer.Login.UserRepository.GetCurrentUser(): GetCurrentUser User null
+2024-12-13 17:19:24.657 [1] EROR BhapticsPlayer.ViewModel.PortalMenuViewModel.InitRestMenus(): InitRestMenus
+2024-12-13 17:19:24.678 [1] WARN BhapticsPlayer.Login.UserRepository.GetCurrentUser(): GetCurrentUser User null
+2024-12-13 17:19:24.724 [4] WARN BhapticsPlayer.Login.UserRepository.GetCurrentUser(): GetCurrentUser User null
+2024-12-13 17:19:24.725 [4] WARN BhapticsPlayer.Repository.ContentReviewRepository+<GetMySaveList>d__14.MoveNext(): GetMySaveList user null
+2024-12-13 17:19:24.775 [1] WARN BhapticsPlayer.Login.UserRepository.GetCurrentUser(): GetCurrentUser User null
+2024-12-13 17:19:25.323 [7] WARN BhapticsPlayer.Login.UserRepository.GetCurrentUser(): GetCurrentUser User null
+2024-12-13 17:19:25.361 [1] WARN BhapticsPlayer.Login.UserRepository.GetCurrentUser(): GetCurrentUser User null
+2024-12-13 17:19:25.374 [1] WARN BhapticsPlayer.Login.UserRepository.GetCurrentUser(): GetCurrentUser User null
+2024-12-13 17:19:25.615 [1] WARN BhapticsPlayer.View.PortalWindowMainView+<<-ctor>b__1_0>d.MoveNext(): PortalWindowMainView Loaded
+2024-12-13 17:19:25.730 [1] WARN BhapticsPlayer.Window.PortalWindow+<SetPlayerData>d__14.MoveNext(): Bluetooth Version: v4_0
+2024-12-13 17:19:25.796 [1] WARN BhapticsPlayer.View.PortalWindowMainView+<<-ctor>b__1_0>d.MoveNext(): LastVersion: 41
+2024-12-13 17:19:26.113 [1] WARN BhapticsPlayer.Login.UserRepository.GetCurrentUser(): GetCurrentUser User null
+2024-12-13 17:19:26.195 [1] WARN BhapticsPlayer.Login.UserRepository.GetCurrentUser(): GetCurrentUser User null
+2024-12-13 17:19:26.207 [1] WARN BhapticsPlayer.Login.UserRepository.GetCurrentUser(): GetCurrentUser User null
+2024-12-13 17:19:26.214 [1] EROR BhapticsPlayer.ViewModel.ProfileMyViewModel+<>c__DisplayClass106_0.<Init>b__0(System.Object, System.ComponentModel.PropertyChangedEventArgs): Changed Settings
+2024-12-13 17:19:26.219 [1] WARN BhapticsPlayer.Login.UserRepository.GetCurrentUser(): GetCurrentUser User null
+2024-12-13 17:19:26.221 [1] EROR BhapticsPlayer.ViewModel.ProfileMyViewModel+<>c__DisplayClass106_0.<Init>b__0(System.Object, System.ComponentModel.PropertyChangedEventArgs): Changed IsEnable
+2024-12-13 17:19:29.557 [1] WARN BhapticsPlayer.Login.UserRepository.GetCurrentUser(): GetCurrentUser User null
+2024-12-13 17:19:29.557 [1] WARN BhapticsPlayer.Repository.ContentReviewRepository+<GetMySaveList>d__14.MoveNext(): GetMySaveList user null
+2024-12-13 17:19:30.436 [1] WARN BhapticsPlayer.Repository.AccountRepository+<GetMyPlayedProfiles>d__14.MoveNext(): GetMyPlayedProfiles token null
+2024-12-13 17:19:32.071 [1] WARN BhapticsPlayer.Bluetooth.TactosyOperation+<Write>d__13.MoveNext(): Write(TactGlove (R)) 1,1,0,0,0,0,20,238,91,103,0,0,0,0,0,0,0,0,0,0, 20, 6e400011-b5a3-f393-e0a9-e50e24dcca9e
+2024-12-13 17:19:32.124 [1] WARN BhapticsPlayer.Bluetooth.TactosyOperation+<Write>d__13.MoveNext(): Write(TactGlove (R)) 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 20, 6e400011-b5a3-f393-e0a9-e50e24dcca9e
+2024-12-13 17:19:32.170 [1] WARN BhapticsPlayer.Bluetooth.TactosyOperation+<Write>d__13.MoveNext(): Write(TactGlove (R)) 100,4,1, 3, 6e400005-b5a3-f393-e0a9-e50e24dcca9e
+2024-12-13 17:19:32.216 [12] WARN BhapticsPlayer.Bluetooth.TactosyOperation+<Write>d__13.MoveNext(): Write(TactGlove (R)) 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 20, 6e40000a-b5a3-f393-e0a9-e50e24dcca9e
+2024-12-13 17:19:32.674 [8] WARN BhapticsPlayer.Bluetooth.TactosyOperation+<Write>d__13.MoveNext(): Write(TactGlove (R)) 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0, 20, 6e400011-b5a3-f393-e0a9-e50e24dcca9e

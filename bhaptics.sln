@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bhaptics.SDK2", "Bhaptics.SDK2.csproj", "{FCE55DEE-1A32-A602-3D9C-938144926584}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{217A1568-8818-2D8D-820D-C858B5436F8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bhaptics.SDK2.Editor", "Bhaptics.SDK2.Editor.csproj", "{5BEA34E1-40EC-FD22-395C-D271A99A44CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCE55DEE-1A32-A602-3D9C-938144926584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCE55DEE-1A32-A602-3D9C-938144926584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCE55DEE-1A32-A602-3D9C-938144926584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCE55DEE-1A32-A602-3D9C-938144926584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{217A1568-8818-2D8D-820D-C858B5436F8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{217A1568-8818-2D8D-820D-C858B5436F8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{217A1568-8818-2D8D-820D-C858B5436F8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{217A1568-8818-2D8D-820D-C858B5436F8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BEA34E1-40EC-FD22-395C-D271A99A44CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BEA34E1-40EC-FD22-395C-D271A99A44CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BEA34E1-40EC-FD22-395C-D271A99A44CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BEA34E1-40EC-FD22-395C-D271A99A44CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
